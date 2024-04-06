@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamthebest4222" alt="iamthebest4222" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Machine Larning**
 
-- 🌱 I’m currently learning **Flask & React**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **keshumishra987@gmail.com**
 
